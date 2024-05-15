@@ -1,5 +1,5 @@
 
-# Desafío 3 Java
+# Desafío 4 Java
 
 Se incopora diferentes desafios prácticos donde se considera el uso de los ciclos aninados para obtener patrones y patrones anidados. 
 
@@ -11,7 +11,7 @@ El segundo desafío entrega un menú de 4 patrones, donde se muestra cada patró
 
 ## Clona este repositorio
 
-En tu consola de git, escribe git clone https://github.com/VanessaBecerra95/desafio3-Java.git
+En tu consola de git, escribe git clone https://github.com/VanessaBecerra95/desafio4-Java.git
 
 
 ## Autor 
